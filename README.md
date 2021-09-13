@@ -1,8 +1,8 @@
-# workLife actualization
+# workLife 
 
 **Name**:  Brett Johnson
 
-**Status**: Working remotely and from the Quadra Centre for Coastal Dialogue
+**Status**: Working remotely
 
 **Afillitations**: Hakai Institute
 
@@ -46,7 +46,6 @@ Real-time processing: Phone calls, texts
 
 Daily batch processing: Email (brett.johnson@hakai.org), Slack Messages. Comms check at 8:00 AM, and 12 PM PDT
 
-Weekly batch processing: GitHub Issues/Comments/PRs, Twitter (@_BrettJohnson), Instagram (@coastaloco).
-
+Weekly batch processing: GitHub Issues/Comments/PRs
 Collaborations welcome!
 
